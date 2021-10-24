@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'ocaique72', 
-  //youtube: 'NAO QUIS COLOCAR',
+  linkedin: 'in/caique-araujo-267b36163/',
   facebook: 'caique.felipe.906',
   instagram: 'caiquearaujo72',
   // twitter: 'NAO QUIS COLOCAR' 
